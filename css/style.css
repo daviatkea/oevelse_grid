@@ -31,6 +31,7 @@ article {
 
   display: grid;
   grid-template-columns: ;
+  gap: 1.5rem;
 }
 
 .content > p {
@@ -44,7 +45,8 @@ p + figure {
 /* ========== gallery ========== */
 .gallery {
   display: grid;
-  grid-template-columns: repeat();
+  grid-template-columns: ;
+  gap: 1rem;
 }
 
 .gallery img {
